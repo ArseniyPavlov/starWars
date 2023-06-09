@@ -18,3 +18,9 @@
 font-style: italic;
 
 }
+
+.soldados {
+    border-style: double;
+    letter-spacing: 10px;
+
+}
